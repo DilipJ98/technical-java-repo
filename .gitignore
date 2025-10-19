@@ -1,0 +1,14 @@
+.settings/
+.classpath
+.project
+
+target/
+
+test-output/
+
+*.log
+.ds_store
+Thumbs.db
+
+*.iml
+
